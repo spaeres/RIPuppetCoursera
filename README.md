@@ -3,7 +3,7 @@ A node js library for GUI Ripping on web applications
 
 # Executing
 
-First check that you are using a valid Node version. We recommend you to use Node v12.22.12.
+First check that you are using a valid Node version. We recommend you to use Node v18.20.4 or newest LTS versions.
 
 Check the content inside config.json file.
 
